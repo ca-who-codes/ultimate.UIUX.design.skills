@@ -38,20 +38,23 @@ It ships two ways at once:
 
 ### Option A — Claude Code plugin (recommended)
 
-```bash
-git clone https://github.com/your-org/ui-ux-design-pro.git
+Install straight from this repo's built-in marketplace — no clone needed:
+
+```text
+/plugin marketplace add ca-who-codes/ultimate.UIUX.design.skills
+/plugin install ui-ux-design-pro@ultimate-uiux-design-skills
 ```
 
-Add it as a plugin (via your plugin marketplace/config), then just ask:
+Then just ask, or use the commands:
 
-```
+```text
 Design a pricing page for a B2B SaaS
 /ui-build a settings form with profile, security, and notifications
 /ui-review src/components/Dashboard.tsx
 /design-system fintech, trustworthy, modern, brand #4F46E5
 ```
 
-The `ui-ux-pro` skill activates automatically whenever a request involves interface work.
+The `ui-ux-pro` skill activates automatically whenever a request involves interface work. Prefer a local copy? `git clone https://github.com/ca-who-codes/ultimate.UIUX.design.skills.git` and add the folder via `/plugin marketplace add ./ultimate.UIUX.design.skills`.
 
 ### Option B — Any agent (Cursor / Windsurf / Copilot / etc.)
 
