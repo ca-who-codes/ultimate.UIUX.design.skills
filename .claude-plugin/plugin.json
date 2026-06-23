@@ -1,0 +1,21 @@
+{
+  "name": "ui-ux-design-pro",
+  "version": "1.0.0",
+  "description": "World-class UI/UX design intelligence for coding agents. A deep, progressive-disclosure knowledge base (principles, foundations, components, motion, accessibility, page patterns, and a modern implementation stack) packaged as a Claude Code skill, plus reviewer/designer/implementer subagents and slash commands. Drop it into any project to give the agent the taste and rigor of teams like Linear, Stripe, and Vercel.",
+  "author": {
+    "name": "UI UX Design Pro"
+  },
+  "homepage": "https://github.com/your-org/ui-ux-design-pro",
+  "keywords": [
+    "ui",
+    "ux",
+    "design",
+    "design-system",
+    "accessibility",
+    "tailwind",
+    "shadcn",
+    "react",
+    "frontend",
+    "skill"
+  ]
+}
