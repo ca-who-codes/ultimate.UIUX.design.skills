@@ -121,7 +121,7 @@ The stat card is the dashboard's atom. A good one is glanceable, contextual, and
 - 3–5 cards per row max; beyond that they shrink to illegibility.
 - One card per concept. Don't cram three metrics into one card.
 - Give the hero KPI more visual weight (size, span) than the supporting ones — uniform cards = no hierarchy.
-- Show loading skeletons, not spinners, while values fetch. See [../04-interaction/loading-states.md](../04-interaction/loading-states.md).
+- Show loading skeletons, not spinners, while values fetch. See [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md).
 - Round intelligently. `89.2%` is fine; `89.23847%` is hostile.
 
 > Don't show a delta without saying delta-of-what. "▲12%" is meaningless without "vs last month."
@@ -182,7 +182,7 @@ Filters turn a static report into an exploration tool. Make them obvious, sticky
 
 Dashboards live or die by information density done *legibly*. Aim for high information-per-pixel without crossing into clutter.
 
-- **Whitespace is structure, not waste.** Group related cards with spacing; separate sections with generous gaps. Spacing communicates relationships faster than borders. See [../02-foundations/spacing.md](../02-foundations/spacing.md).
+- **Whitespace is structure, not waste.** Group related cards with spacing; separate sections with generous gaps. Spacing communicates relationships faster than borders. See [../02-foundations/layout-spacing.md](../02-foundations/layout-spacing.md).
 - **Tabular figures everywhere.** Numbers in tables and cards must use lining/tabular numerals so columns align and the eye can scan down a column of digits.
 - **Right-align numbers, left-align text** in tables. Always.
 - **Restrained color.** Reserve saturated color for meaning — alerts, deltas, the one series that matters. A dashboard where everything is colorful is a dashboard where nothing stands out.
@@ -246,7 +246,7 @@ The first-run dashboard is the highest-stakes screen for activation — and the 
 └─────────────────────────────────────────────┘
 ```
 
-See [../04-interaction/empty-states.md](../04-interaction/empty-states.md) for the full empty-state pattern.
+See [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md) for the full empty-state pattern.
 
 ---
 
@@ -287,9 +287,9 @@ See [../04-interaction/empty-states.md](../04-interaction/empty-states.md) for t
 
 - [auth-onboarding.md](./auth-onboarding.md) — first-run flow that fills the empty dashboard.
 - [landing-marketing.md](./landing-marketing.md) — the page that drives signups to this product.
-- [../03-components/tables.md](../03-components/tables.md) — sortable, dense data tables.
-- [../04-interaction/empty-states.md](../04-interaction/empty-states.md) — per-card and full empty states.
-- [../04-interaction/loading-states.md](../04-interaction/loading-states.md) — skeletons for cards and charts.
+- [../03-components/data-display.md](../03-components/data-display.md) — sortable, dense data tables.
+- [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md) — per-card and full empty states.
+- [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md) — skeletons for cards and charts.
 - [../02-foundations/color.md](../02-foundations/color.md) — semantic color for deltas and alerts.
 
 ---

@@ -5,16 +5,16 @@
     "url": "https://github.com/ca-who-codes"
   },
   "metadata": {
-    "description": "Ultimate UI/UX design intelligence for AI coding agents — skill, subagents, and commands backed by a deep, progressive-disclosure knowledge base.",
-    "version": "1.0.0"
+    "description": "Ultimate one-stop design intelligence for AI coding agents — interfaces + visual/marketing collateral — as a skill, subagents, and commands backed by a deep, progressive-disclosure knowledge base.",
+    "version": "2.0.0"
   },
   "plugins": [
     {
       "name": "ui-ux-design-pro",
       "source": "./",
-      "description": "World-class UI/UX design intelligence: a ui-ux-pro skill that auto-activates on interface work, plus /ui-build, /ui-review, and /design-system commands and ui-designer / frontend-implementer / design-reviewer subagents — all backed by ~25 dense reference files (principles, foundations, components, motion, accessibility, page patterns, modern stack).",
-      "version": "1.0.0",
-      "keywords": ["ui", "ux", "design", "design-system", "accessibility", "tailwind", "shadcn", "react", "frontend"]
+      "description": "World-class, one-stop design intelligence. A ui-ux-pro skill that auto-activates on any design work, plus commands (/ui-build, /ui-review, /design-system, /make-deck, /make-carousel, /make-creative) and ui-designer / frontend-implementer / visual-designer / design-reviewer subagents — backed by ~35 dense reference files spanning two tracks: interfaces (principles, foundations, components, motion, a11y, page patterns, modern React+Tailwind+shadcn stack) and visual/marketing design (presentations, social carousels & posts, ads, posters, print, email, brand systems, and an HTML→PNG/PDF/PPTX/MP4 production pipeline).",
+      "version": "2.0.0",
+      "keywords": ["ui", "ux", "design", "design-system", "accessibility", "tailwind", "shadcn", "react", "frontend", "presentations", "carousel", "social-media", "poster", "print-design", "email-design", "branding", "marketing-design"]
     }
   ]
 }

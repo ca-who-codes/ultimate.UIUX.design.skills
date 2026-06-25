@@ -4,7 +4,7 @@
 
 **When to read this:** Before designing an app's nav shell, adding a new section, or fixing mobile nav, active-state ambiguity, or too-deep menu hierarchies.
 
-For nav primitives (tabs, dropdown menus, pagination) see [./components.md](./components.md). For skip links / focus / landmarks see [../05-quality/accessibility.md](../05-quality/accessibility.md). For responsive breakpoints see [../02-foundations/responsive.md](../02-foundations/responsive.md).
+For nav primitives (tabs, dropdown menus, pagination) see [./components.md](./components.md). For skip links / focus / landmarks see [../05-quality/accessibility.md](../05-quality/accessibility.md). For responsive breakpoints see [../05-quality/responsive.md](../05-quality/responsive.md).
 
 ---
 
@@ -81,7 +81,7 @@ Rule: pick by **number of destinations** and **device**. ≤5 destinations → t
 ### Responsive nav transformation
 - Top nav (desktop) → hamburger drawer or bottom bar (mobile).
 - Sidebar (desktop) → off-canvas drawer or bottom bar (mobile); collapse to rail at medium widths.
-- Don't just shrink desktop nav; **transform** it to the device-appropriate pattern at sensible breakpoints. See [../02-foundations/responsive.md](../02-foundations/responsive.md).
+- Don't just shrink desktop nav; **transform** it to the device-appropriate pattern at sensible breakpoints. See [../05-quality/responsive.md](../05-quality/responsive.md).
 
 ---
 

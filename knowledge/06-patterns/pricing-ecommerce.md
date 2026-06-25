@@ -122,7 +122,7 @@ For products where the difference between plans is detailed, add a full comparis
 - **Sale price first, original struck through** with the discount — frames the saving.
 - **Fast filtering & sorting** (price, rating, popularity, new) in a left rail or top bar, with applied filters as removable chips and the result count visible.
 - **Quick-add / quick-view** on hover speeds purchase without leaving the grid.
-- **Lazy-load images**, reserve space (no layout shift), show skeletons. See [../04-interaction/loading-states.md](../04-interaction/loading-states.md).
+- **Lazy-load images**, reserve space (no layout shift), show skeletons. See [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md).
 
 ---
 
@@ -251,9 +251,9 @@ A lean, proven flow:
 - [landing-marketing.md](./landing-marketing.md) — the page that drives traffic to pricing/PDP.
 - [auth-onboarding.md](./auth-onboarding.md) — guest-vs-account decisions and post-purchase account creation.
 - [dashboards.md](./dashboards.md) — the post-purchase account/admin surface.
-- [../03-components/buttons.md](../03-components/buttons.md) — CTA contrast and states for Add-to-cart / Place-order.
-- [../04-interaction/forms.md](../04-interaction/forms.md) — checkout field design, autofill, validation timing.
-- [../04-interaction/loading-states.md](../04-interaction/loading-states.md) — PLP image loading, checkout submission states.
+- [../03-components/components.md](../03-components/components.md) — CTA contrast and states for Add-to-cart / Place-order.
+- [../03-components/forms.md](../03-components/forms.md) — checkout field design, autofill, validation timing.
+- [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md) — PLP image loading, checkout submission states.
 
 ---
 

@@ -208,7 +208,7 @@ The best onboarding often isn't a separate flow at all — it's **empty states t
 └───────────────────────────────────────────┘
 ```
 
-This beats modal tours: it's contextual, dismissible by *doing*, and the lesson sticks because the user performed it. See [../04-interaction/empty-states.md](../04-interaction/empty-states.md).
+This beats modal tours: it's contextual, dismissible by *doing*, and the lesson sticks because the user performed it. See [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md).
 
 ### Setup wizards & checklists
 
@@ -302,8 +302,8 @@ Never fire a native OS permission prompt (notifications, location, camera, conta
 - [dashboards.md](./dashboards.md) — the first-run dashboard onboarding fills.
 - [landing-marketing.md](./landing-marketing.md) — the CTA that delivered the user here.
 - [pricing-ecommerce.md](./pricing-ecommerce.md) — checkout auth (guest vs account).
-- [../04-interaction/empty-states.md](../04-interaction/empty-states.md) — empty-state-driven onboarding.
-- [../04-interaction/forms.md](../04-interaction/forms.md) — field design and validation timing.
+- [../04-interaction/states-feedback.md](../04-interaction/states-feedback.md) — empty-state-driven onboarding.
+- [../03-components/forms.md](../03-components/forms.md) — field design and validation timing.
 - [../05-quality/accessibility.md](../05-quality/accessibility.md) — accessible errors, labels, focus order.
 
 ---

@@ -152,7 +152,7 @@ The CTA is where intent becomes action. Three levers: **specificity, contrast, r
 
 First-person ("Start **my** trial") often beats second-person — it reads as the user's own decision.
 
-**Contrast** — the primary CTA must be the single highest-contrast element in its viewport. One accent color, reserved for primary actions only. Secondary CTAs are ghost/outline buttons so the hierarchy is unmistakable. See [03-components/buttons.md](../03-components/buttons.md) for button anatomy and states.
+**Contrast** — the primary CTA must be the single highest-contrast element in its viewport. One accent color, reserved for primary actions only. Secondary CTAs are ghost/outline buttons so the hierarchy is unmistakable. See [03-components/buttons.md](../03-components/components.md) for button anatomy and states.
 
 **Repetition** — repeat the *same* primary CTA at natural decision points: hero, after features, after testimonials, and the final CTA. A visitor convinced at section 4 shouldn't have to scroll back up. Keep wording consistent so it reads as one offer, not four.
 
@@ -266,7 +266,7 @@ Most landing traffic is mobile. Design the fold mobile-first.
 - Active voice, present tense. "You ship faster," not "Faster shipping is enabled."
 - Concrete numbers beat adjectives. "Set up in 5 minutes" > "Quick setup."
 - Match the visitor's vocabulary, not your internal jargon. If they say "payroll run," don't say "compensation event."
-- Microcopy under CTAs reverses risk: "No credit card · Cancel anytime · 14-day trial." See [04-interaction/microcopy.md](../04-interaction/microcopy.md).
+- Microcopy under CTAs reverses risk: "No credit card · Cancel anytime · 14-day trial." See [04-interaction/microcopy.md](../05-quality/review-checklist.md).
 
 ---
 
@@ -275,7 +275,7 @@ Most landing traffic is mobile. Design the fold mobile-first.
 - [pricing-ecommerce.md](./pricing-ecommerce.md) — pricing tables, product pages, checkout.
 - [auth-onboarding.md](./auth-onboarding.md) — what happens after the CTA click.
 - [dashboards.md](./dashboards.md) — the product surface you're driving signups to.
-- [../03-components/buttons.md](../03-components/buttons.md) — CTA button states and contrast.
+- [../03-components/components.md](../03-components/components.md) — CTA button states and contrast.
 - [../02-foundations/typography.md](../02-foundations/typography.md) — headline scale and hierarchy.
 
 ---
