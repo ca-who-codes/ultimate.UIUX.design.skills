@@ -1,3 +1,5 @@
+![Design Pro — design context pack for AI agents · CA who codes](.github/banner.png)
+
 <div align="center">
 
 # 🎨 Design Pro
